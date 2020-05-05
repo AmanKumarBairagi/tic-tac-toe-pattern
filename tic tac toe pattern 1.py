@@ -1,5 +1,5 @@
 import random
-from tictactoe2 import *
+from tictactoe2 import *      #no module name tictactoe2 exist edited by aman kumar bairagi
 help_computer=[11,12,13,21,22,23,31,32,33]
 user_list = []
 computer_list=[]
